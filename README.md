@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- GIF of a girl instead of a boy -->
+  <!-- GIF of a girl -->
   <img height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </div>
 
